@@ -3,7 +3,7 @@
 
 #config
 
-token = "MTIzNTk0Nzg2Nzg3NzY3MTA0Nw.G4gWdB.vQQfXCZ6g-X3XJ6bXOc95xD3s99yubVukQtcfw"
+token = "MTIzNTk0Nzg2Nzg3NzY3MTA0Nw.GsJZEe.2j_UXYneJkB1cxDv5_EnRkGgtUap3BRget8yGs"
 prefix = "!"
 spam_messages = ["@everyone get nuked", "@everyone nuked"]
 names = ["nuked", "get-nuked"]
